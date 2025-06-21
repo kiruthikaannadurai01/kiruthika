@@ -20,7 +20,7 @@
 
 ![ Kiruthika GitHub stats](https://github-readme-stats.vercel.app/api?username=kiruthikaannadurai01&show_icons=true)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kiruthika_01?theme=dark&font=Marcellus&ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kiruthika_01?theme=dark&font=Marcellus&ext=contest)](https://leetcode.com/u/kiruthika_01/)
 
-[![Leetcode](https://leetcode.com/u/kiruthika_01/)]
+
 
